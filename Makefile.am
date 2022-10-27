@@ -1,0 +1,1 @@
+SUBDIRS = ir power deepsleep
